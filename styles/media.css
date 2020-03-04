@@ -1,0 +1,48 @@
+@media (max-width: 375px) {
+    .hero {
+        display: none;
+    }
+    .container {
+        background: #fefaf9;
+    }
+    .main {
+        margin: 0;
+        width: auto;
+    }
+    .section-box__label input {
+        width: 19.5rem;
+        height: 3rem;
+    }
+    .section-box__label button {
+        width: 4rem;
+        height: 3rem;
+    }
+    .section-box__label h1 {
+        padding-top: 4.125rem;
+    }
+    .section-box__logo img {
+        padding: 2rem 0 2rem 2rem;
+        width: 8.75rem;
+    }
+
+    .section-box__image {
+        display: block;
+    }
+
+    .section-box__image img {
+        width: 100%;
+    }
+    .section-box__title h1 {
+        font-size: 3rem;
+        text-align: center;
+    }
+    .section-box__text {
+        max-width: 22.5rem;
+        text-align: center;
+        margin: 2.5rem auto;
+    }
+    .section-box__form {
+        text-align: center;
+        padding-bottom: 3rem;
+    }
+}
